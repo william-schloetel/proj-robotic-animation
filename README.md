@@ -17,7 +17,11 @@ Once the armature was complete, I attached servo motors in the appropriate posit
 
 Then began the programming and testing...
 
-I opted to use an Arduino Uno microcontroller. Its versatility and accessibility made it perfect for this project. With minimal overhead and a custom IDE, the Arduino Uno made setup and programming a breeze. 
+I opted to use an Arduino
+
+https://user-images.githubusercontent.com/33403525/211177449-1a4bd954-7dec-45aa-9746-0b9d2ae49f10.mov
+
+ Uno microcontroller. Its versatility and accessibility made it perfect for this project. With minimal overhead and a custom IDE, the Arduino Uno made setup and programming a breeze. 
 
 Getting familiar with the Arduino gave me the confidence to begin exploring more advanced microcontrollers, like the Raspberry Pi. 
 
