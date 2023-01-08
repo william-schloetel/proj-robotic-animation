@@ -17,3 +17,9 @@ Once the armature was complete, I attached servo motors in the appropriate posit
 
 Then began the programming and testing...
 
+I opted to use an Arduino Uno microcontroller. Its versatility and accessibility made it perfect for this project. With minimal overhead and a custom IDE, the Arduino Uno made setup and programming a breeze. 
+
+Getting familiar with the Arduino gave me the confidence to begin exploring more advanced microcontrollers, like the Raspberry Pi. 
+
+To generate servo motion that was fluid and believable, I made use of a fantastic <a href=“https://github.com/ArminJo/ServoEasing”>servo easing library</a> that allowed me to fine tune the servo motion. This library enabled synchronized servo movements between multiple servos using a clock timer. The results were great.
+
