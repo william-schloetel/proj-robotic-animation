@@ -23,10 +23,12 @@ To generate servo motion that was fluid and believable, I made use of a fantasti
 
 <br>
 <p float="left">
+<img src="https://user-images.githubusercontent.com/33403525/213971309-534b7663-c37a-41ae-a322-6612a4a48aed.gif" width="300" />
 <img src="https://user-images.githubusercontent.com/33403525/213960881-4f0b0fce-f70b-44d2-99de-8437eaee53eb.gif" width="300" />
 <img src="https://user-images.githubusercontent.com/33403525/213961897-21ea64d1-c5cc-484b-9ba8-0b2fe51a2b31.gif" width="300" />
 <img src="https://user-images.githubusercontent.com/33403525/213962433-ab8d1ffe-8784-49a4-92d6-033b27667f53.gif" width="300" />
 </p>
 <br>
+
 
 
