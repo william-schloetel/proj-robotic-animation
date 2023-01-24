@@ -19,7 +19,8 @@ Then began the programming and testing...
 
 I opted to use an Arduino Uno microcontroller. Its versatility and accessibility made it perfect for this project. With minimal overhead and a custom IDE, the Arduino Uno made setup and programming a breeze. Getting familiar with the Arduino gave me the confidence to start exploring other microcontrollers, like the Raspberry Pi. 
 
-To generate servo motion that was fluid and believable, I made use of a fantastic <a href=“https://github.com/ArminJo/ServoEasing”>servo easing library</a> that allowed me to fine-tune the servo motion. The servos were able to smoothly accelerate and decelerate, emulating different sine functions. The library also enabled synchronized servo movements between multiple servos. The results were great.
+To generate servo motion that was fluid and believable, I made use of a fantastic 
+[servo easing library](https://github.com/ArminJo/ServoEasing) that allowed me to fine-tune the servo motion. The servos were able to smoothly accelerate and decelerate, emulating different sine functions. The library also enabled synchronized servo movements between multiple servos and allowed for variable servo speeds. The results were great.
 
 <br>
 <p float="left">
